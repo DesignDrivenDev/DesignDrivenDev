@@ -1,4 +1,3 @@
-DesignDrivenDev/README.md
 💫 About Me:
 🔭 I’m currently working on:
 Improving cloud-based solutions and implementing microservices architecture.
