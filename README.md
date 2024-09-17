@@ -17,5 +17,5 @@ JavaScript, React, Nextjs, Node.js, and any general software development questio
 Twitter Instagram LinkedIn
 
 💻 Tech Stack:
-NodeJS  CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Apollo-GraphQL Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase LINUX ESLint ElasticSearch Jira Docker Kubernetes Notion
+NodeJS CSS3 JavaScript HTML5 GraphQL TypeScript Vercel Apollo-GraphQL Bootstrap Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase ESLint
 
